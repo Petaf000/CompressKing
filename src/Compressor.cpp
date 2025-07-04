@@ -11,7 +11,7 @@
 #include "delta.h"
 #include "bwt.h"
 #include "mtf.h"
-//#include "huffman.h"
+#include "huffman.h"
 
 #include "exe_filter.h"
 #include "arithmetic_coder.h"
